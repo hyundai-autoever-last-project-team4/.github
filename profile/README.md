@@ -7,3 +7,11 @@
     <a href="https://wherehouse.site/client">📦 Wherehouse client 사이트</a> 
 </div>
 <br/>
+<div >
+    <a href="https://wherehouse.site/admin">📦 Wherehouse admin 사이트</a> 
+</div>
+<br/>
+<div >
+    <a href="https://wherehouse.site/web-view">📦 Wherehouse web-view 사이트</a> 
+</div>
+<br/>

@@ -72,7 +72,7 @@
 📌 **노션** → [프로젝트 문서](https://www.notion.so/183f2528fe7880d7bc6ad2647331a94a?pvs=21)  
 📌 **지라** → (Private, 스크린샷 참고)
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/579556b1-69f8-4822-9a88-126b5e727337)
 
 ---
 
